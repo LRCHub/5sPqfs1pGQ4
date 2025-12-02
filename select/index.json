@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "感謝カンゲキ雨嵐",
+  "base_artist": "ARASHI",
+  "createdAt": "2025-12-02T22:19:11.457739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "感謝カンゲキ雨嵐",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/01_感謝カンゲキ雨嵐_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "感謝カンゲキ雨嵐",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_感謝カンゲキ雨嵐_嵐.txt"
+    }
+  ]
+}
